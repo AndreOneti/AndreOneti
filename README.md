@@ -1,4 +1,9 @@
-## Salve Dev! Eu sou Andre Oneti 👋!  Bem vindo ao meu GitHub!
+## Salve Dev! Eu sou Andre Oneti 👋!
+
+<img align="center" alt="Avatar do André" src="https://cdn.discordapp.com/attachments/874279607698882572/874280671676334140/Avatar-mini.png">
+<span>Bem vindo ao meu GitHub!</span>
+
+<hr>
 
  <div>
   <a href="https://github.com/AndreOneti">
@@ -15,5 +20,4 @@
   <img align="center" alt="Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="Bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
   <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  
 </div>
