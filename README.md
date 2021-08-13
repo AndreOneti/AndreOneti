@@ -1,7 +1,7 @@
 ## Salve Dev! Eu sou Andre Oneti 👋!
 
 <img align="center" alt="Avatar do André" src="https://cdn.discordapp.com/attachments/874279607698882572/874280671676334140/Avatar-mini.png">
-<span>Bem vindo ao meu GitHub!</span>
+<h2>Bem vindo ao meu GitHub!</h2>
 
 <hr>
 
