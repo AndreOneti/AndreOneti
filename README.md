@@ -7,8 +7,9 @@
 
  <div>
   <a href="https://andreoneti.com.br" target="_blank">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndreOneti&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreOneti&layout=compact&langs_count=7&theme=dracula"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndreOneti&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreOneti&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -21,3 +22,12 @@
   <img align="center" alt="Bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
   <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
 </div>
+
+##
+
+<a href="https://linkedin.com/in/andre-oneti/" target="_blank">
+ <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+</a>
+<a href="https://codepen.io/andreoneti" target="_blank">
+ <img src="https://img.shields.io/badge/-Codepen-%230077B5?style=for-the-badge&logo=codepen&logoColor=white" target="_blank">
+</a>
