@@ -3,6 +3,13 @@
 <img align="center" alt="Avatar do André" src="https://cdn.discordapp.com/attachments/874279607698882572/874280671676334140/Avatar-mini.png">
 <h2>Bem vindo ao meu GitHub!</h2>
 
+<a href="https://linkedin.com/in/andre-oneti/" target="_blank">
+ <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+</a>
+<a href="https://codepen.io/andreoneti" target="_blank">
+ <img src="https://img.shields.io/badge/-Codepen-%230077B5?style=for-the-badge&logo=codepen&logoColor=white" target="_blank">
+</a>
+
 <hr>
 
  <div>
@@ -22,12 +29,3 @@
   <img align="center" alt="Bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
   <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
 </div>
-
-##
-
-<a href="https://linkedin.com/in/andre-oneti/" target="_blank">
- <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-</a>
-<a href="https://codepen.io/andreoneti" target="_blank">
- <img src="https://img.shields.io/badge/-Codepen-%230077B5?style=for-the-badge&logo=codepen&logoColor=white" target="_blank">
-</a>
